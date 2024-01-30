@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on merging frameworks, formalising IT Skills and career paths
 - 📫 How to reach me carolimonline@gmail.com
 - 😄 Pronouns: GenX so ... :/
-- ⚡ Fun fact: I'm writing a travelogue of my 2006 backpacking trip from Cairo to Cape Town
+- ⚡ Fun fact: I'm writing a travelogue of my 2006 backpacking trip from Cairo to Cape Town (no really, I even started and everything) 
 
 <!---
 CarolimoCW/CarolimoCW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
